@@ -1,0 +1,15 @@
+// Compound Assignment With Augmented Addition
+
+var a = 3;
+var b = 17;
+var c = 12;
+
+
+a += 12;
+b += 9;
+c += 7;
+
+//  Use above code insted of below code.
+// a = a + 12;
+// b = 9 + b;
+// c = c + 7;
