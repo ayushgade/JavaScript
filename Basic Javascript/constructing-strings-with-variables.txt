@@ -1,0 +1,8 @@
+// Constructing Strings with Variables
+
+
+var myName = "Aayush";
+var myStr = "My name is " + myName + "and I am well!";
+
+// Output = 
+// My name is Aayush and I am well!

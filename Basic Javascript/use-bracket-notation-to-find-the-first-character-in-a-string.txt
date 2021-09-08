@@ -1,0 +1,10 @@
+// Use Bracket Notation to Find the 
+// First Character in a StringPassed
+
+var firstLetterOfLastName = "";
+var lastName = "Lovelace";
+
+
+firstLetterOfLastName = lastName[0];
+
+// Output = L

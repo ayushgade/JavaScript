@@ -1,0 +1,8 @@
+// Appending Variables to Strings
+
+var someAdjective = "fun";
+var myStr = "Learning to code is ";
+myStr +=someAdjective;
+
+// Output = 
+// Learning to code is fun
