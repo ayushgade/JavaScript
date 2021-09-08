@@ -1,0 +1,11 @@
+// Understand String Immutability
+
+// n JavaScript, String values are immutable, which means that they cannot be altered once created.
+
+var myStr = "Jello World";
+
+myStr = "Hello World";
+
+// var myStr = "Bob";
+// myStr[0] = "J";
+// it cannot change 'Bob' to 'Job'

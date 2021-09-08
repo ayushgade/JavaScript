@@ -1,0 +1,13 @@
+// Use Bracket Notation to Find the 
+// Nth Character in a String
+
+
+var lastName = "Lovelace";
+
+var thirdLetterOfLastName = lastName[2];
+
+
+// Output = 'v' .
+
+// Remember that computers start counting at 0, so the first character is actually the zeroth character.
+
