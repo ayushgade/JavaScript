@@ -1,0 +1,4 @@
+var product = 8 * 10;
+
+//  In above code we have used ' * ' operator so, now the 
+//  product value is 80.

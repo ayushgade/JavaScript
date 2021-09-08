@@ -1,0 +1,4 @@
+var difference = 45 - 33;
+
+//  In above code we have used ' - ' operator so, now the 
+//  difference value is 12.

@@ -1,0 +1,4 @@
+var quotient = 66 / 33;
+
+//  In above code we have used ' / ' operator so, now the 
+//  quotient value is 2.

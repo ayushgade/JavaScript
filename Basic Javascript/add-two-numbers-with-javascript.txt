@@ -1,0 +1,4 @@
+var sum = 10 + 10;
+
+//  In Above Code we have added two number with
+//  '+' operator so, now the sum = 20;
