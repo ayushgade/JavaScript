@@ -1,0 +1,9 @@
+// Assigning the Value of One Variable to Another.
+var a;
+a = 7;
+var b;
+b = a;
+
+// In Above Code we have delared two var 'a' & 'b'
+// a contains value of '7' and and when we Do "b = a"
+// Now Both 'a' and 'b' have value of seven. 

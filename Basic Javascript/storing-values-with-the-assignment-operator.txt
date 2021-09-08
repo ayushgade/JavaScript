@@ -1,0 +1,5 @@
+// Storing Values with the Assignment Operator
+var a;
+a = 7;
+// Here we creatred variable 'a' and then with
+// '=' operator we assigned the value 7.
