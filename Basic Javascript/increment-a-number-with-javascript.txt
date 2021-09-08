@@ -1,0 +1,9 @@
+var myVar = 87;
+
+myVar++;
+
+
+
+
+// instend of doing myVar = myVar + 1;
+// simply we can do myVar++.
