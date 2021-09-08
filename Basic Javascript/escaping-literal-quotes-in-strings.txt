@@ -1,0 +1,6 @@
+// Escaping Literal Quotes in Strings
+
+var myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
+// Output of this var is 
+// I am a "double quoted" string inside "double quotes".

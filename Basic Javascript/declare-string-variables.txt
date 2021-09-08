@@ -1,0 +1,4 @@
+// Declare String Variables
+
+var myFirstName = "Aayush";
+var myLastName = "Gade";
