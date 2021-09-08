@@ -1,1 +1,4 @@
+Declare your first Variable.
+
 var myName;
+var is keyword and myName is name of variable.
