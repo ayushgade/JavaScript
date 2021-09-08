@@ -1,0 +1,5 @@
+// Initializing Variables with the Assignment Operator
+
+var a = 9;
+
+//We can also delcare value to var as shown in above code.
