@@ -1,0 +1,9 @@
+// Manipulate Arrays With pop()
+
+
+var myArray = [["John", 23], ["cat", 2]];
+
+var removedFromMyArray = myArray.pop();
+
+// .pop() is used to pop(remove) a value off of the end of an array.
+// Output : removedFromMyArray = [["John", 23]];
