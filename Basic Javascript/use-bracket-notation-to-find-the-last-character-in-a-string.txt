@@ -1,0 +1,9 @@
+// Use Bracket Notation to Find the 
+// Last Character in a String
+
+
+var lastName = "Lovelace";
+
+var lastLetterOfLastName = lastName[lastName.length -1];
+
+// Here length of var is '8' to get the last letter of srting we should '-1' from the string.

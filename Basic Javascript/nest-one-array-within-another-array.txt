@@ -1,0 +1,7 @@
+// Nest one Array within Another Array
+
+
+var myArray = [["one",1], ["two",2]];
+
+// We can also Nest one Array within Another Array
+// By above way.

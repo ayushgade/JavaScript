@@ -1,0 +1,7 @@
+// Store Multiple Values in one 
+// Variable using JavaScript Arrays
+
+
+var myArray = ["code for", 30];
+
+// With JavaScript array variables, we can store several pieces of data in one place.

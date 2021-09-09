@@ -1,0 +1,11 @@
+// Word Blanks
+
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+
+var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; 
+
+// We can add var to the strings in following Way.
