@@ -1,0 +1,12 @@
+// Assignment with a Returned Value
+
+var processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+processed = processArg(7);
+
+//  Here we have changed the value of variable by
+//  var = function(parameter);

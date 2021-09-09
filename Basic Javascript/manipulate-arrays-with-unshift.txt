@@ -1,0 +1,11 @@
+// Manipulate Arrays With unshift()
+
+
+var myArray = [["John", 23], ["dog", 3]];
+myArray.shift();
+myArray.unshift(["Paul",35])
+
+// Output : myArray = [["Paul", 35], ["dog", 3]].
+
+// .unshift() works exactly like .push(), but instead of adding the element at the end of the array, unshift() adds the element at the beginning of the array.
+

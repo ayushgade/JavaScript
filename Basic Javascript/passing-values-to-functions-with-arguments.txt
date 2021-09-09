@@ -1,0 +1,12 @@
+// Passing Values to Functions with Arguments
+
+
+function functionWithArgs(param1, param2) {
+  console.log(param1 + param2)
+}
+functionWithArgs(1,2);
+functionWithArgs(7,9);
+
+// Then we can call testFun like this: 
+// functionWithArgs("Hello", "World");. We have passed two string arguments, '1' and '2'. Inside the function, param1 will equal the string '1' and param2 will equal the string '2'. Note that you could call testFun again with different arguments and the parameters would take on the value of the new arguments.
+

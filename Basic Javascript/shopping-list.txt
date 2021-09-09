@@ -1,0 +1,5 @@
+// Shopping List
+
+var myList = [["Milk",1],["Chocolate",2],["Tea",4],["Coffe",7],["Beer",10]];
+
+// Above code is multi-dimensional array.
