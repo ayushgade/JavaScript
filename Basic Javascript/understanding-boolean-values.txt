@@ -1,0 +1,9 @@
+// Understanding Boolean Values
+
+
+function welcomeToBooleans() {
+
+  return true; 
+}
+
+// It returns the value true
