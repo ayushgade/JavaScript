@@ -1,0 +1,16 @@
+// Practice comparing different values
+
+
+function compareEquality(a, b) {
+  if (a === b) { // Change this line
+    return "Equal";
+  }
+  return "Not Equal";
+}
+
+compareEquality(10, "10"); // Not Equal
+
+/* 
+a == b returns true because JavaScript performs type conversion from string to number. 
+a === b returns false because the types are different and type conversion is not performed. 
+*/
