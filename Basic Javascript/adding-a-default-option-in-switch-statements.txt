@@ -1,0 +1,26 @@
+// Adding a Default Option in Switch Statements
+
+
+// default statement which will be executed if no matching case statements are found.
+// A default statement should be the last case.
+
+function switchOfStuff(val) {
+  var answer = "";
+switch (val) {
+  case "a":
+    return "apple";
+    break;
+  case "b":
+    return "bird";
+    break;
+  case "c":
+  return "cat";    
+  break;
+  default:
+  return "stuff";
+  break;
+}
+  return answer;
+}
+
+switchOfStuff(1);

@@ -1,0 +1,8 @@
+// Returning Boolean Values from Functions
+
+// Since === returns true or false, we can return the result of the comparison insted of using if else statements.
+function isLess(a, b) {
+ return a < b;
+}
+
+console.log(isLess(15, 10)); //False
