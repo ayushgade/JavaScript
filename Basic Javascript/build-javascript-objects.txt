@@ -1,0 +1,9 @@
+// Build JavaScript Objects
+
+var myDog = {
+name: "Ruby",
+legs: 4,
+tails: 1,
+friends: ["A","B","C"]
+};
+
